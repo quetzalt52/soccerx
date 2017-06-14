@@ -2,4 +2,5 @@
 
 ## Collaborators
  - Christian Vuerings
-- Eric Jackson
+ - Eric Jackson
+ - Henry Unga
